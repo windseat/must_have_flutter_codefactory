@@ -35,7 +35,10 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  webview_flutter: 2.3.1
+
+  # webview_flutter: 2.3.1
+  # 책에는 위 버전, 2023 05 07 현재 최신 버전은 아래
+  webview_flutter: 4.2.0
 
 dev_dependencies:
   flutter_test:
@@ -63,6 +66,9 @@ flutter:
   # assets:
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
+
+  assets:
+    - assets/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
