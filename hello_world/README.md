@@ -1,6 +1,6 @@
 # hello_world
 
-코드팩토리의 플러터 프로그래밍 샘플코드 검증
+A new Flutter project.
 
 ## Getting Started
 

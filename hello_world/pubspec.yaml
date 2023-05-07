@@ -1,5 +1,5 @@
 name: hello_world
-description: 코드팩토리의 플러터 프로그래밍 샘플코드 검증
+description: A new Flutter project.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
